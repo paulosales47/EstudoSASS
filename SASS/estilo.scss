@@ -1,0 +1,19 @@
+/* IMPORTS */
+@import 'estilo_adicional';
+
+/* VARIÁVEIS */
+$font-stack:    Arial, Helvetica, sans-serif;
+$primary-color: #333;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+.fundo-preto{
+
+    p{
+        background: black;
+        color: white;
+    }
+}

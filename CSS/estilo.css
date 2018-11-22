@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* IMPORTS */
+body {
+  background: #cacaca;
+}
+
+/* VARIÁVEIS */
+body {
+  font: 100% Arial, Helvetica, sans-serif;
+  color: #333;
+}
+
+.fundo-preto p {
+  background: black;
+  color: white;
+}
+
+/*# sourceMappingURL=estilo.css.map */
